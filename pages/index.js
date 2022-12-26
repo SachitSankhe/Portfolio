@@ -195,7 +195,7 @@ export default function Home() {
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
             <div className="basis-1/3 flex-1 ">
               <a
-                href="https://github.com/SachitSankhe/Pathik-back"
+                href="http://sachitsankhe.pythonanywhere.com/api/auth/register/"
                 target="_blank"
                 rel="noreferrer"
               >
