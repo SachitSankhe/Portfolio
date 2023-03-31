@@ -8,11 +8,7 @@ import frontend from "../public/frontend.png";
 import backend from "../public/backend.png";
 import Image from "next/image";
 import web1 from "../public/pathik.jpg";
-import web2 from "../public/oj.png";
-import web3 from "../public/web3.png";
-import web4 from "../public/web4.png";
-import web5 from "../public/web5.png";
-import web6 from "../public/web6.png";
+import web2 from "../public/OJ_LOGO.png";
 import { SiHashnode } from "react-icons/si";
 import { FiMenu } from "react-icons/fi";
 
@@ -59,7 +55,7 @@ export default function Home() {
                 <li className="block py-5 lg:p-0">
                   <a
                     className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                    href="https://drive.google.com/drive/u/2/folders/1Rx9msWV5DZdWyHVT3IhfBIfQSNTw6lhE"
+                    href="https://drive.google.com/drive/folders/1EYMRl_QC38p3UgW0JEdbjgK6jayagXSI?usp=sharing"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -211,7 +207,7 @@ export default function Home() {
             </div>
             <div className="basis-1/3 flex-1">
               <a
-                href="https://github.com/SachitSankhe/OJ_Project"
+                href="http://54.167.41.138/OJ/problems/"
                 target="_blank"
                 rel="noreferrer"
               >
